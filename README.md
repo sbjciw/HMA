@@ -1,0 +1,2 @@
+# HMA
+Hull Moving Average
